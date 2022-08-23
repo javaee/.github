@@ -16,7 +16,6 @@ This code is developed by Oracle and is generally only available as history arch
 [Join Oracle's developer community](https://bit.ly/odevrel_slack)<br><br>
 
 <!--- if you have additional organization-wide resources, add them here --->
-
 ## All Oracle GitHub organizations
 
 * [Oracle](https://github.com/oracle) – our primary GitHub organization
