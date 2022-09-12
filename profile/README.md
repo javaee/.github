@@ -1,6 +1,7 @@
 
 <!--- using a banner is optional, but recommended. Reach out to the OGHO team for banner templates.--->
 <!--- put the banner with description here --->
+<div align="center"><img src="https://www.nicepng.com/png/detail/854-8546612_java-ee-java-ee-logo-svg.png"/></div>
 
 # Java EE Legacy
 
